@@ -1,18 +1,13 @@
-## Getting Started
+## Introduction
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Moving on from the usual assignments, today I'm tasked with learning how classes and objects work + the fundamentals of what even OOP is. This assignment is about a Person class with its own attributes like name and age + methods such as a greeting.
 
-## Folder Structure
+## Environment Setup
 
-The workspace contains two folders by default, where:
+- JDK (Java Development Kit) Version 23.0.2 
+- Visual Studio Code as my IDE (Integrated Development Environment) because my laptop is a potato and can't handle any other ones.
+- Git as a way to push files to Github
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Challenges
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+There really wasn't any challenges other than the process of learning how the structure works and what each syntax is and does. The code was already given by my lecturer as a foundation and all I did was study and added some extra attributes.
